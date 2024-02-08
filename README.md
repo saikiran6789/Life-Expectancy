@@ -1,1 +1,1 @@
-
+The main aim is to explore the parameters affecting the life span of individuals living in distant countries and learn how the life span can be estimated with the help of machine learning models. We will also focus on parameters that greatly impact the life span of an individual
