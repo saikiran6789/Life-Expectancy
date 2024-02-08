@@ -1,0 +1,1 @@
+aim to explore the parameters affecting the life span of individuals living in distant countries and learn how the life span can be estimated with the help of machine learning models. We will also focus on parameters that greatly impact the life span of an individual![image](https://github.com/saikiran6789/Life-Expectancy/assets/122426288/7c927593-7df1-4644-99d7-c1641805bbdc)
